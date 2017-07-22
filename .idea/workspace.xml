@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42189cda-cb81-4c75-8109-0105fc9b4684" name="Default" comment="Adding .idea support files">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/androidTest/java/moviesearch/netflix/AppTitleEspressoTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/moviesearch/netflix/AppTitleEspressoTest.java" />
-    </list>
+    <list default="true" id="42189cda-cb81-4c75-8109-0105fc9b4684" name="Default" comment="" />
     <ignored path="moviesearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/app/build/intermediates/assets/" />
@@ -2500,7 +2495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500699577917</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updating .idea support files">
+      <created>1500700093488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1500700093488</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2561,7 +2563,8 @@
     <MESSAGE value="Adding click listener for movie item action" />
     <MESSAGE value="Adding baseline espresso test case" />
     <MESSAGE value="Adding .idea support files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding .idea support files" />
+    <MESSAGE value="Updating .idea support files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating .idea support files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
