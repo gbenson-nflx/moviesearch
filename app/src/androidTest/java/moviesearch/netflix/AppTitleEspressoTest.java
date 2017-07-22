@@ -21,7 +21,7 @@ public class AppTitleEspressoTest {
     public ActivityTestRule mActivityRule = new ActivityTestRule<>(MovieListActivity.class);
 
     @Test
-    public void listGoesOverTheFold() {
+    public void checkAppTitleIsDisplayed() {
         String name = mActivityRule.getActivity().getString(R.string.app_name);
         onView(withText(name)).check(matches(isDisplayed()));
     }
